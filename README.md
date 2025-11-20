@@ -6,6 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=Visitors&color=0e75b6&style=flat-square" alt="Abhishek_Rajawat" /> 
 </p>
 
+<img 
+  src="http://itshivam.in/api/github-profile?username=AbhiRajawat-07&data=followers,repositories,stars,commits&theme=neon" 
+  alt="GitHub WidgetBox - rajawat" 
+  width="90%" 
+  style="max-width: 100%;" 
+/>
+
 <h1 align="left">💫 About Me:</h1>
 
 - 🌱 I’m currently learning **App Development**
@@ -29,8 +36,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer-Motion](https://img.shields.io/badge/framermotion-%23F05033.svg?style=for-the-badge&logo=framermotion&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![React.js](https://img.shields.io/badge/react.js-%23F05033.svg?style=for-the-badge&logo=react.js&logoColor=white) ![React-Native.js](https://img.shields.io/badge/react-native-%23F05033.svg?style=for-the-badge&logo=react.js&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer-Motion](https://img.shields.io/badge/FramerMotion-%23F05033.svg?style=for-the-badge&logo=framer&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![React.js](https://img.shields.io/badge/react.js-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white) 
 
 
 
@@ -50,18 +57,12 @@
      </td>
    </tr>
 </table>
-<table>
+<!-- <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiRajawat-07&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiRajawat-07&theme=aura_dark"></td>
   </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbhiRajawat-07&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-</table>
+</table> -->
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
