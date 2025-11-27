@@ -13,16 +13,28 @@
   style="max-width: 100%;" 
 />
 
-<h1 align="left">💫 About Me:</h1>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <!-- LEFT: ABOUT ME -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h1 align="left">💫 About Me:</h1>
 
-- 🌱 I’m currently learning **App Development**
+    <ul>
+      <li>🌱 I’m currently learning <b>App Development</b></li>
+      <li>👨‍💻 All of my projects are available at <b>http://localhost:8000/</b></li>
+      <li>📫 How to reach me: <b>abhisheksinghas805994@gmail.com</b></li>
+      <li>⚡ Fun fact: Opposite of Extraordinary is <b>Extra ordinary</b></li>
+    </ul>
+  </div>
 
-- 👨‍💻 All of my projects are available at **http://localhost:8000/**
+  <!-- RIGHT: GIF -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" 
+         alt="developer gif" 
+         style="max-width: 100%; height: auto; border-radius: 10px;">
+  </div>
 
-- 📫 How to reach me: **abhisheksinghas805994@gmail.com**
-
-- ⚡ Fun fact: Opposite of Extraordinary is Extra ordinary
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
