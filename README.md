@@ -20,7 +20,7 @@
     <h1 align="left">💫 About Me:</h1>
 
     <ul>
-      <li>🌱 I’m currently learning <b>App Development</b></li>
+      <li>🌱 I’m currently learning <b>AI/ML</b></li>
       <li>👨‍💻 All of my projects are available at <b>http://localhost:8000/</b></li>
       <li>📫 How to reach me: <b>abhisheksinghas805994@gmail.com</b></li>
       <li>⚡ Fun fact: Opposite of Extraordinary is <b>Extra ordinary</b></li>
