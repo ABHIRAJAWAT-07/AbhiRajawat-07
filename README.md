@@ -5,7 +5,38 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=Visitors&color=0e75b6&style=flat-square" alt="Abhishek_Rajawat" /> 
 </p>
+<p align="center">
+   <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Layer (slow movement) -->
+  <circle cx="50" cy="100" r="80" fill="url(#grad1)" opacity="0.15">
+    <animate attributeName="cx" values="50;60;50" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Mid Layer -->
+  <circle cx="350" cy="100" r="60" fill="#6C63FF" opacity="0.2">
+    <animate attributeName="cx" values="350;340;350" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Foreground Shape (faster movement) -->
+  <rect x="140" y="60" width="120" height="80" rx="20" fill="url(#grad1)">
+    <animate attributeName="y" values="60;55;60" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Text / Initials -->
+  <text x="200" y="115" font-size="36" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">
+    ASR
+  </text>
+
+</svg>
+</p>
 <img 
   src="http://itshivam.in/api/github-profile?username=AbhiRajawat-07&data=followers,repositories,stars,commits&theme=neon" 
   alt="GitHub WidgetBox - rajawat" 
