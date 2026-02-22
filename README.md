@@ -1,7 +1,7 @@
 <h3 align="center">
     <samp>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Abhishek.S.Rajawat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Abhishek Rajawat)](https://git.io/typing-svg)
 </samp>
 
 
