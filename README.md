@@ -1,3 +1,11 @@
+<h3 align="center">
+    <samp>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Abhishek)](https://git.io/typing-svg)
+</samp>
+
+
+</h3>
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="left"> 
