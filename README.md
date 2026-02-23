@@ -59,10 +59,7 @@
 ![React.js](https://img.shields.io/badge/react.js-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white) 
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
+ 
 
 <img src="stats.gif" width="90%"><br/><br/>
 
