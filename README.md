@@ -9,13 +9,15 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="left"> 
-<img 
-    src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" 
+ <img 
+    src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=🚀+PROFILE+VISITORS&color=0e75b6&style=for-the-badge"
     alt="Visitors"
     style="
-      animation: float 3s ease-in-out infinite;
-      border-radius: 12px;
-      box-shadow: 0px 8px 20px rgba(14,117,182,0.4);
+      border-radius: 14px;
+      padding: 6px;
+      background: linear-gradient(135deg, rgba(14,117,182,0.3), rgba(0,0,0,0.2));
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+      animation: floatGlow 4s ease-in-out infinite;
     "
   /></p>
  
