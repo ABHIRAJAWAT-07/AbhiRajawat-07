@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="left"> 
  <img 
-    src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=🚀+PROFILE+VISITORS&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=AbhiRajawat-07&label=🚀VISITORS&color=0e75b6&style=for-the-badge"
     alt="Visitors"
     style="
       border-radius: 14px;
@@ -39,7 +39,6 @@
   <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning</b></li>
   <li>🚀 Interested in Web Tech, AI Systems & Emerging Technologies</li>
   <li>📫 Let's connect: <b>abhisheksinghas805994@gmail.com</b></li>
-  <li>⚡ Fun fact: My best ideas appear during late-night coding 🌙</li>
 </ul>
   </div>
 
