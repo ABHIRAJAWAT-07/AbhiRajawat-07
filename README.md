@@ -12,6 +12,13 @@
   <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
     <br><br>
 </p>
+  <div align="center">
+      <a href="https://github.com/Sunscarsonys">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
+            />
+        </a>
+    </div>
  
 <img 
   src="http://itshivam.in/api/github-profile?username=AbhiRajawat-07&data=followers,repositories,stars,commits&theme=neon" 
