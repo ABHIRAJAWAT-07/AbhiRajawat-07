@@ -81,17 +81,13 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiRajawat-07&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
     </td>
    </tr>
-    <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheInfernitex&custom_title=Contribution%20Activity%20Graph&hide_border=true&theme=github-dark&bg_color=00000000&color=ffffff&line=79ff97&point=79ff97&area=true&area_color=0d1117" alt="Activity Graph" />
-</div>
+   
   <tr>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiRajawat-07&theme=2077">
      </td>
    </tr>
-     <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheInfernitex&custom_title=Contribution%20Activity%20Graph&hide_border=true&theme=github-dark&bg_color=00000000&color=ffffff&line=79ff97&point=79ff97&area=true&area_color=0d1117" alt="Activity Graph" />
-</div>
+     
 </table>
 <!-- <table>
   <tr>
