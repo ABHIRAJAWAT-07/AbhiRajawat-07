@@ -17,7 +17,7 @@
             <img
                 src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
             />
-        </a>
+    </a>
     </div>
  
 <img 
