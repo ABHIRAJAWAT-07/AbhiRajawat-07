@@ -36,7 +36,6 @@
 <ul>
   <li>🤖 AI/ML Explorer | Building smart & scalable solutions</li>
   <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning</b></li>
-  <li>🚀 Interested in Web Tech, AI Systems & Emerging Technologies</li>
   <li>📫 Let's connect: <b>abhisheksinghas805994@gmail.com</b></li>
 </ul>
   </div>
