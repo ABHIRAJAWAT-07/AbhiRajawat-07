@@ -14,7 +14,7 @@
     </div>
  
 <img 
-  src="http://itshivam.in/api/github-profile?username=Abhi Rajawat-07&data=followers,repositories,stars,commits&theme=neon" 
+  src="http://itshivam.in/api/github-profile?username=AbhiRajawat-07&data=followers,repositories,stars,commits&theme=neon" 
   alt="GitHub WidgetBox - rajawat" 
   width="90%" 
   style="max-width: 100%;" 
