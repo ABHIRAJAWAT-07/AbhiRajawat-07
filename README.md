@@ -6,10 +6,6 @@
 </h3>
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<p align="left"> 
-  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
-    <br><br>
-</p>
   <div align="center">
       <a href="https://github.com/Sunscarsonys">
             <img
