@@ -11,7 +11,11 @@
                 src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
             />
     </a>
-    </div>
+      
+ </div>
+  <p align="center"><a href="https://github.com/itshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ 
+
  
 <img 
   src="http://itshivam.in/api/github-profile?username=AbhiRajawat-07&data=followers,repositories,stars,commits&theme=neon" 
