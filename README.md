@@ -31,7 +31,7 @@
     <h1 align="left">💫 About Me:</h1>
 
 <ul>
-  <li>🤖 AI/ML Explorer | Building smart & scalable solutions</li>
+  <li>🤖 AI/ML Explorer</li>
   <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning</b></li>
   <li>📫 Let's connect: <b>abhisheksinghas805994@gmail.com</b></li>
 </ul>
