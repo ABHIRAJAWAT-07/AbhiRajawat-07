@@ -28,7 +28,8 @@
   
   <!-- LEFT: ABOUT ME -->
   <div style="flex: 1; padding-right: 20px;">
-    <h1 align="left">💫 About Me:</h1>
+    <h1 align="left">
+        💫 About Me:</h1>
 
 <ul>
   <li>🤖 AI/ML Explorer</li>
