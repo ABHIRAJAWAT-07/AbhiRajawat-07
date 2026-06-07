@@ -33,7 +33,7 @@
 
 <ul>
   <li>🤖 AI/ML Explorer</li>
-  <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning</b></li>
+  <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning & Gen AI</b></li>
   <li>📫 Let's connect: <b>abhisheksinghas805994@gmail.com</b></li>
 </ul>
   </div>
