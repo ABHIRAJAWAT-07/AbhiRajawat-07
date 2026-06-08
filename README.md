@@ -103,21 +103,7 @@
 ![snake gif](https://github.com/itshivams/itshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiRajawat-07&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
-    </td>
-   </tr>
-   
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiRajawat-07&theme=2077">
-     </td>
-   </tr>
-     
-</table>
+ 
 <!-- <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiRajawat-07&theme=aura_dark"></td>
