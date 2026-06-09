@@ -8,7 +8,7 @@
   <div align="center">
       <a href="https://github.com/Sunscarsonys">
           <img
-    src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Luminary...;Catalyst...;Pioneer...;"
+    src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Luminary..;Catalyst..;Pioneer..;"
 />
     </a>
       
