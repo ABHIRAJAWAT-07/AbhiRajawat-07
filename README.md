@@ -32,9 +32,27 @@
         💫 About Me:</h1>
 
 <ul>
-  <li>🤖 AI/ML Explorer</li>
-  <li>💡 Curious mind experimenting with <b>Machine Learning & Deep Learning & Gen AI</b></li>
-  <li>📫 Let's connect: <b>abhisheksinghas805994@gmail.com</b></li>
+# 💫 About Me
+
+🤖 Passionate AI Engineer building intelligent systems powered by Machine Learning, Deep Learning and Generative AI.
+
+🧠 Exploring:
+- Machine Learning
+- Deep Learning
+- LLM Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Multi-Agent Workflows
+- AI Automation
+
+🚀 Currently:
+- Building AI-powered applications
+- Training ML/DL models
+- Solving Data Structures & Algorithms
+- Exploring Production AI Systems
+
+📫 Reach Me:
+**abhisheksinghas805994@gmail.com**
 </ul>
   </div>
 
