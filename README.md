@@ -63,6 +63,19 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![EJS](https://img.shields.io/badge/EJS-%23A91E50.svg?style=for-the-badge&logo=ejs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23F05033.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![React.js](https://img.shields.io/badge/react.js-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+# 🧠 AI & Data Science Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 
  
