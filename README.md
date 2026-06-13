@@ -43,7 +43,7 @@
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI Systems
 - Multi-Agent Workflows
-- AI Automation
+ 
 
 
 🚀 Currently:
