@@ -42,10 +42,8 @@
 - LLM Engineering
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI Systems
-- Multi-Agent Workflows
  
-
-
+ 
 🚀 Currently:
 - Building AI-powered applications
 - Training ML/DL models
