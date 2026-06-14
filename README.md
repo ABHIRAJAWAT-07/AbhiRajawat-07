@@ -44,7 +44,7 @@
 - Agentic AI Systems
  
  
-🚀 Currently:
+ 
 - Building AI-powered applications
 - Training ML/DL models
 - Solving Data Structures & Algorithms
