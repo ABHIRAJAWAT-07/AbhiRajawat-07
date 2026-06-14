@@ -43,12 +43,6 @@
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI Systems
  
- 
- 
-- Building AI-powered applications
-- Training ML/DL models
-- Solving Data Structures & Algorithms
-- Exploring Production AI Systems
 
 📫 Reach Me:
 **abhisheksinghas805994@gmail.com**
