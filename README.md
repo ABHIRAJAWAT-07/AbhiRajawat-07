@@ -41,7 +41,7 @@
 - Deep Learning
 - LLM Engineering
 - Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
+ 
  
 
 📫 Reach Me:
