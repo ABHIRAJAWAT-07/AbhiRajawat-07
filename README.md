@@ -46,7 +46,6 @@
 🧠 Exploring:
 - Machine Learning
 - Deep Learning
-- LLM Engineering
 - Retrieval-Augmented Generation (RAG)
  
  
