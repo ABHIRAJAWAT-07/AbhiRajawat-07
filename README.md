@@ -70,9 +70,6 @@
   <a href="https://linkedin.com/in/abhishek-singh-rajawat-5a1052320" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shreyashsri" height="50" width="50" />
   </a>
- <a href="mailto:abhisheksinghas805994@gmail.com" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Email" height="50" width="50" />
-</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
