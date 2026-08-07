@@ -1,19 +1,6 @@
 <div>
-    <div align="center">
-  <a href="https://github.com/ABHIRAJAWAT-07" target="_blank">
-    <img
-      src="https://avatars.githubusercontent.com/u/00000000?v=4"
-      alt="ABHIRAJAWAT-07 Profile Picture"
-      width="140"
-      style="border-radius: 50%; margin-bottom: 15px;"
-    />
-    <br/>
-    <img
-      src="https://itshivam.in/api/github-image?username=ABHIRAJAWAT-07"
-      alt="GitHub Animated Banner"
-      height="300"
-    />
-  </a>
+<div align="center">
+<a href="https://github.com/ABHIRAJAWAT-07"><img src="https://itshivam.in/api/github-image?username=ABHIRAJAWAT-07" height="300" /></a>
 </div>
 
 
